@@ -1,0 +1,68 @@
+
+                                    ````......````                               
+                                `.................``                            
+                              `.....................`                           
+                             .........................`                         
+                            ...........................                         
+                           `...........................`                        
+                           `...............:/:..........                        
+                           `..+hhy/.....-smNMMNs........`                       
+                           `.yMMMMMo...-mMMmmMMMd.......`                       
+                           `.MM+:yMm...yMM/.-sMMM:......`                       
+                           `.mN..-NNossdNd...-NMM-......`                       
+                           `.+Mo+hmdddddddhs+sNNh.......`                       
+                           `./ddddddddddddddddmms:......`                       
+                           `sddddddddddddddddddmmd......`                       
+                           .sddmdmmmmmmmmmdmdddddy.......                       
+                          `../mddddddhdddddddddmmd.......`                      N     N  NNNN  N       NNNN   NNNN   N     N  NNNN
+                          .../MNmddddddddddmmNNNNNs.......`                     N  N  N  N     N      N      N    N  NN   NN  N
+                         ....hMMNNmmmddmmmNNNNNNNNm/.......`                    N N N N  NNNN  N      N      N    N  N N N N  NNNN
+                        `...:MMMMNNNNNNNNNNNNNNNNNNd-.......`                   NN   NN  N     N      N      N    N  N  N  N  N
+                       `....hMMMMMNNNNNNNNNNNNNNNNNNy.........`                 N     N  NNNN  NNNNN   NNNN   NNNN   N     N  NNNN [N]
+                     `...../MMMMMMMMNNNNNNNNNNNNNNNNNo.........`                
+                   `.......mMMMMMMMMMNNNNNNNNNNNNNNNNm/...:......`              
+                  `..-....yMMMMMMMMMMMNNNNNNNNNNNNNNNNm-..+s:......`            
+                 `../o...+MMMMMMMMMMMMMNNNNNNNNNNNNNNNNd-..-so......`           
+               `.../y.../NMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNh-...sh-.....`          
+              `.../d-..:NMMMMMMMMMMMMMMMMNmmmmmmNNNNNNNNNh-...sh......`         
+             `...-m:..:mMMMMMMMMMMMMMMMMMMNmmmmmmmmNNNNNNNh....ds......`        
+            `....hs..-mMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmNNNNNNs...om-......        
+            ....:M/..hMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmmNNNNN:..oN/......`       
+           `....sM/.:MMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmmmNNNh..sN+.......       
+           .....sMo.yMMMMMMMMMMMMMMMMMMMMMMMMMMmmmmmmmmmmmNNNyymNs-......`      
+           ...../Mm-NMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmms///+oyhs/....`      
+          `......sMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmo........:sy:..`      
+          `oyyyyo:+dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmm/..........:m..       
+        `/hddddddmh+/ymNMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmmmdds........../myo-`     
+      `:yddddddddddmy-./hNMMMMMMMMMMMMMMMMMMMMMMMMMMNmmddddo-.....-/shhhhhs.    
+  `-+yhddddddddddddddh-..-omMMMMMMMMMMMMMMMMMMMMMMMMMMmddddmho++oshhhhhhhhho    
+ :hdddddddddddddddddddy-...-sNMMMMMMMMMMMMMMMMMMMMMMMMmdddddddhhhhhhhhhhhhhy`   
+-ddddddddddddddddddddddh:....+NMMMMMMMMMMMMMMMMMMMMMMMdddddddddhhhhhhhhhhhhh+   
+odddddddddddddddddddddddd/....hMMMMMMMMMMMMMMMMMMMMMMNddddddddddhhhhhhhhhhhhho. 
++ddddddddddddddddddddddddms--+mMMMMMMMMMMMMMMMMMMMMMMmdddddddddddhhhhhhhhhhhhhy-
+.ddddddddddddddddddddddddddmNMMMMMMMMMMMMMMMMMMMMMMMMmddddddddddddhhhhhhhhhhhhhy
++dddddddddddddddddddddddddddmNMMMMMMMMMMMMMMMMMMMNNmmddddddddddddddhhhhhhhhhhhy/
+dddddddddddddddddddddddddddddmmshmNNMMMMMMNNNNdy+:.hmdddddddddddddddhhhhhhyy+:` 
+ddddddddddddddddddddddddddddddm-..-:/+oo++/:-.....-mddddddddddddddddddhhs/.     
+-yddddddddddddddddddddddddddddm+................../mdddddddddddddddddh+.        
+  .-://+osyhddddddddddddddddddh.`               ``.sdddddddddddddddy:           
+            `.:/oyddddddddddds.                     sdddddddddddds-             
+                  `-/oyyso+:`                        -shdddddhy/`               
+
+
+
+
+|===============================================|
+|           TCP SERVER  -  MAIN MANU            |
+|===============================================|
+| 1. '.' path 'value'  --  value input          |
+| 2. '.' path          --  value return         |
+| 3. '+' path          --  increase the value   |
+|                          by 1                 |
+| 4. '*' path          --  sum of all the values|
+|                          in that path         |
+| 5. '-' path          --  returns the last     |
+|                          value in the path    |
+|===============================================|
+| 'exit'               --  exit the server      |
+|===============================================|
